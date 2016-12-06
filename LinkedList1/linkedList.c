@@ -1,7 +1,6 @@
 /*
 * Dylan Brown
-* CSE 2451
-* C Lab 3
+* 
 * The purpose of this code is to model a singley linked list in C.
 *
 */
